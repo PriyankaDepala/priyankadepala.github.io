@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Architecture vs UX
+title: Qubu
 ---
 
 Review of first week at Qubu.
