@@ -32,6 +32,13 @@ Being able to familliarise myself with more of the behind the scenes of the work
 
 
 
+
+
+
+
+
+
+
 02/07/2020-06/07/2020
 
 Start of first UX project
