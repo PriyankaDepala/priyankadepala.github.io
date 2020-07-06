@@ -29,3 +29,13 @@ I think the process of cold calling a lot of pubs has been quite repetitive as a
 (e) If you could go back in time, what would you do better or avoid doing altogether.
 
 Being able to familliarise myself with more of the behind the scenes of the working of the app such as adding products, adding businesses etc. is something that I would like to become more aware of.
+
+
+
+02/07/2020-06/07/2020
+
+Start of first UX project
+
+The first idea that I had proposed was for the Order accept App, it was to change the look for the app when the app is first opened up. 
+
+
